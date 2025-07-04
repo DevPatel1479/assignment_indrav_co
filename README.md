@@ -1,6 +1,5 @@
-## 🎥 Demo Video
+## 📱 Flutter App Demo
 
-<video width="100%" height="auto" controls>
-  <source src="https://drive.google.com/file/d/1nY-zanWUyjIE6bWCxzLn9-UV8JZIvMgy/view?usp=drive_link" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Click to watch the screen recording of the app:
+
+[![Watch the Demo](https://img.shields.io/badge/Watch-Demo-blue?logo=google-drive)](https://drive.google.com/file/d/1nY-zanWUyjIE6bWCxzLn9-UV8JZIvMgy/view?usp=drive_link)

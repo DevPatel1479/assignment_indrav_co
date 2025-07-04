@@ -1,5 +1,6 @@
-## 📱 Flutter App Demo
+## 📦 Download APK
 
-Click to watch the screen recording of the app:
+Click the button below to download the latest release of the app:
 
-[![Watch the Demo](https://img.shields.io/badge/Watch-Demo-blue?logo=google-drive)](https://drive.google.com/file/d/1nY-zanWUyjIE6bWCxzLn9-UV8JZIvMgy/view?usp=drive_link)
+[![Download APK](https://img.shields.io/badge/⬇️_Download-APK-blue?style=for-the-badge&logo=android)](https://drive.google.com/uc?export=download&id=1MGyTBXxdMUzyR4hHO5aSY0J5tk4n9KJN)
+
